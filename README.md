@@ -34,7 +34,7 @@ Click on the **Genre Classification** page in the sidebar to upload an audio fil
 
 - Python
 - Librosa
-- TensorFlow / PyTorch
+- TensorFlow
 - Streamlit (for the web interface)
 - NumPy, Pandas, Matplotlib
 
